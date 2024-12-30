@@ -1,0 +1,162 @@
+[
+  {
+    "VehicleID": "C001",
+    "Brand": "Toyota",
+    "Model": "Camry",
+    "CarType": "Sedan",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C002",
+    "Brand": "BMW",
+    "Model": "5 Series",
+    "CarType": "Luxury",
+    "Chauffeur": true,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C003",
+    "Brand": "Ford",
+    "Model": "Explorer",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C004",
+    "Brand": "Audi",
+    "Model": "A8",
+    "CarType": "Luxury",
+    "Chauffeur": true,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C005",
+    "Brand": "Hyundai",
+    "Model": "Tucson",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C006",
+    "Brand": "Chevrolet",
+    "Model": "Malibu",
+    "CarType": "Sedan",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C007",
+    "Brand": "Honda",
+    "Model": "Accord",
+    "CarType": "Sedan",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C008",
+    "Brand": "Mercedes",
+    "Model": "E-Class",
+    "CarType": "Luxury",
+    "Chauffeur": true,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C009",
+    "Brand": "Nissan",
+    "Model": "Rogue",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C010",
+    "Brand": "Lexus",
+    "Model": "RX 350",
+    "CarType": "Luxury",
+    "Chauffeur": true,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C011",
+    "Brand": "Volkswagen",
+    "Model": "Passat",
+    "CarType": "Sedan",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C012",
+    "Brand": "Kia",
+    "Model": "Sportage",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C013",
+    "Brand": "Volvo",
+    "Model": "S60",
+    "CarType": "Luxury",
+    "Chauffeur": true,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C014",
+    "Brand": "Tesla",
+    "Model": "Model 3",
+    "CarType": "Luxury",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C015",
+    "Brand": "Jeep",
+    "Model": "Wrangler",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C016",
+    "Brand": "Toyota",
+    "Model": "Highlander",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C017",
+    "Brand": "Honda",
+    "Model": "Pilot",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C018",
+    "Brand": "Ford",
+    "Model": "Fusion",
+    "CarType": "Sedan",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C019",
+    "Brand": "Subaru",
+    "Model": "Outback",
+    "CarType": "SUV",
+    "Chauffeur": false,
+    "Availability": true
+  },
+  {
+    "VehicleID": "C020",
+    "Brand": "Jaguar",
+    "Model": "XF",
+    "CarType": "Luxury",
+    "Chauffeur": true,
+    "Availability": true
+  }
+]
